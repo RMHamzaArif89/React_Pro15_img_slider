@@ -54,7 +54,6 @@ function Page() {
       <div className="right" onClick={RightClick}>{<FaChevronCircleRight />}</div>
       <div className="dot-icon">
         {data.map((val, i) => {
-
           return <div className="dot" key={i} onClick={() => { setI(i) }}><GoDot /></div>
         })}
       </div>
