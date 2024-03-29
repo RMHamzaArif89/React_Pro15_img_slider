@@ -7,5 +7,4 @@ function ImgCon({data}) {
   </div>
   )
 }
-
 export default ImgCon
