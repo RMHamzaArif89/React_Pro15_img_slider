@@ -7,5 +7,4 @@ let Data=[
     {imgUrl:'/images/img6.jpg'},
     {imgUrl:'/images/img7.jpg'},
 ]
-
 export default Data;
