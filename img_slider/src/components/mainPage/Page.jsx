@@ -58,8 +58,6 @@ function Page() {
           return <div className="dot" key={i} onClick={() => { setI(i) }}><GoDot /></div>
         })}
       </div>
-
-
     </div>
   )
 }
